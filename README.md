@@ -31,4 +31,4 @@ The below-given function do this task, it checks whether the today's date matche
 * Meal wise text messages
 
 ---
-*[Suggestions are always welcomed](https://github.com/memr5/PDPU-Mess-Menu-Scraper/issues)*
+*[Suggestions are welcome](https://github.com/memr5/PDPU-Mess-Menu-Scraper/issues)*
