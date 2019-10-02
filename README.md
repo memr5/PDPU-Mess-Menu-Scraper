@@ -1,4 +1,7 @@
 # PDPU-Mess Menu Scraping
+[![followers](https://img.shields.io/github/followers/memr5?label=Follow&style=social )](https://github.com/memr5/PDPU-Mess-Menu-Scraper/blob/master/README.md) [![GitHub repo size](https://img.shields.io/github/languages/top/memr5/PDPU-Mess-Menu-Scraper)](https://github.com/memr5/PDPU-Mess-Menu-Scraper/blob/master/README.md) 
+[![last-commit](https://img.shields.io/github/last-commit/memr5/PDPU-Mess-Menu-Scraper?style=plastic)](https://github.com/memr5/PDPU-Mess-Menu-Scraper/blob/master/README.md)
+[![repo-size](https://img.shields.io/github/repo-size/memr5/PDPU-Mess-Menu-Scraper?style=plastic)](https://github.com/memr5/PDPU-Mess-Menu-Scraper/blob/master/README.md)
 
 This python program scraps daily menu of mess in PDPU & send the menu as Whatsapp message.  
 
@@ -32,3 +35,4 @@ The below-given function do this task, it checks whether the today's date matche
 
 ---
 *[Suggestions are welcome](https://github.com/memr5/PDPU-Mess-Menu-Scraper/issues)*
+ 
